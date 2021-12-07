@@ -1,0 +1,5 @@
+Dataset,Files,TotalSize (bytes),Time (ns),Failed files (timeouts)
+cv,3264,466019133,183664011844,0
+tech,1477,3079884571,1662951943147,35
+tech,1477,3079884571,1662951943147,35
+arxiv,
