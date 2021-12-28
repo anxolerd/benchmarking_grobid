@@ -1,0 +1,5 @@
+pypdf2
+matplotlib
+jupyter
+pandas
+scipy
