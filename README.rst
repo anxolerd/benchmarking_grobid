@@ -40,7 +40,12 @@ How to
       Done
 
 
+Exploratory Data Analysis
+-------------------------
+
+See `EDA.rst <EDA.rst>`_.
+
 Results
 -------
 
-See ``results.csv``.
+See `results.csv <results.csv>`_.
